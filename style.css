@@ -67,11 +67,11 @@ input[type="submit"]:hover {
 
 /* Стили для кнопки "Заполнить снова" */
 form[action="header.html"] input[type="submit"] {
-    background-color: #28a745;
+    background-color: #007bff;
 }
 
 form[action="header.html"] input[type="submit"]:hover {
-    background-color: #1f9035;
+    background-color: #0463c9;
 }
 
 .radio-group {
